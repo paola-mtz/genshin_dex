@@ -1,0 +1,25 @@
+
+body{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(61, 136, 95);
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h3{
+    font-size: 25px;
+}
+hr{
+    color: aliceblue;
+}
+
+select{
+    text-align: center;
+    font-size: 120%;
+}
+alinear{
+    align-items: center;
+}
